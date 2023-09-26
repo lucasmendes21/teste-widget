@@ -47,11 +47,11 @@ export default {
           url: 'https://polvoapis.consensotec.com.br/polvo-gsan-online-rest-api/chart',
           data: {
             chartID: 'dadosDiariosArrecadacao',
-            accountID: 16,
-            userID: 99,
+            accountID: 42,
+            userID: 308,
             payload: {
-              dateInitial: "2023-09-25",
-              dateFinal: "2023-09-25"
+              dateInitial: "2023-09-22",
+              dateFinal: "2023-09-22"
             }
           }
         })
