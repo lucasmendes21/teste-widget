@@ -1,6 +1,6 @@
 (function() {
   const iframe = document.createElement('iframe');
-  iframe.src = 'https://teste-widget-ij1o2acck-lucasmendes21.vercel.app';
+  iframe.src = 'https://teste-widget.vercel.app';
   iframe.width = '100%';
   iframe.height = '400';
 
